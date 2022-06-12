@@ -1,6 +1,6 @@
 # Language Processing 2 exam project
 
-Here, you will found our report and code for the exam project in Lanugage Processing 2 at the University of Copenhagen.
+Here, you will found our code for the exam project in Lanugage Processing 2 at the University of Copenhagen.
 
 The exam was based on a PAN Shared Task, [*Profiling Irony and Stereotype Spreaders on Twitter (IROSTEREO) 2022*](https://pan.webis.de/clef22/pan22-web/author-profiling.html).
 
@@ -13,7 +13,6 @@ The exam was based on a PAN Shared Task, [*Profiling Irony and Stereotype Spread
  **File overview:**
 
 *   `pan22-author-profiling-training-2022-03-29` The dataset
-*   `project.pdf` The project report
 *   `read_files.py` Function to import dataset
 *   `feature_transformers.py` Transformers to extract features
 *   `train_models.ipynb` Notebook with pipeline and gridsearch

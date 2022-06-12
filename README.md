@@ -1,4 +1,7 @@
-# Language Processing 2 exam project
+# “Interesting 🤦🏾‍♀️”
+## - An Emoji-Based Approach to Profiling Irony and Stereotype Spreaders on Twitter
+
+### Exam project in Language Processing 2, University of Copenhagen
 
 Here, you will found our code for the exam project in Lanugage Processing 2 at the University of Copenhagen.
 
@@ -18,4 +21,4 @@ The exam was based on a PAN Shared Task, [*Profiling Irony and Stereotype Spread
 *   `train_models.ipynb` Notebook with pipeline and gridsearch
 *   `best_model.ipynb` Notebook with pipeline of the best model
 
-To see how we did the gridsearch, please take a look at `train_models.ipynb`. If your only want to see the pipeline and results from the best performing model, please look at `best_model.ipynb`.
+To see how we did the gridsearch, please take a look at `train_models.ipynb`. If your only interested in seeing the pipeline and results from the best performing model, please look at `best_model.ipynb`.

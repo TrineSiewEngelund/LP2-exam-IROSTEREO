@@ -3,7 +3,7 @@
 
 ### Exam project in Language Processing 2, University of Copenhagen
 
-Here, you will found our code for the exam project in Lanugage Processing 2 at the University of Copenhagen.
+In this repository, you will found our code for the exam project in Lanugage Processing 2 at the University of Copenhagen.
 
 The exam was based on a PAN Shared Task, [*Profiling Irony and Stereotype Spreaders on Twitter (IROSTEREO) 2022*](https://pan.webis.de/clef22/pan22-web/author-profiling.html).
 

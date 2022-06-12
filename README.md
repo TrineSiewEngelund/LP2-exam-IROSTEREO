@@ -1,5 +1,4 @@
-# “Interesting 🤦🏾‍♀️”
-## - An Emoji-Based Approach to Profiling Irony and Stereotype Spreaders on Twitter
+# “Interesting 🤦🏾‍♀️” - An Emoji-Based Approach to Profiling Irony and Stereotype Spreaders on Twitter
 
 ### Exam project in Language Processing 2, University of Copenhagen
 

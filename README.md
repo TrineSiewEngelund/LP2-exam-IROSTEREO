@@ -10,10 +10,12 @@ The exam was based on a PAN Shared Task, [*Profiling Irony and Stereotype Spread
 
 ---
 
+
+
 **Group members 👩🏼👩🏼‍🦰👩🏽**
-  - Caroline Amalie Ørum-Hansen
-  - Maja Mittag
-  - Trine K. M. Siewartz Engelund
+  - [Caroline Amalie Ørum-Hansen](https://github.com/caorumhansen)
+  - [Maja Mittag](https://github.com/MajaMittag)
+  - [Trine K. M. Siewartz Engelund](https://github.com/TrineSiewEngelund)
 
 ---
 
